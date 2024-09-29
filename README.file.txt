@@ -1,6 +1,9 @@
 # Restricted Textarea Project
 
 This project demonstrates how to create a restricted textarea with live character count and a maximum character limit using HTML, CSS, and JavaScript. It tracks and displays the number of characters typed by the user, provides real-time feedback, and visually indicates when the character limit is reached.
+## Project URL
+You can view the live project here: [Project URL](https://roadmap.sh/projects/restricted-textarea)
+
 
 Project URL
 https://roadmap.sh/projects/restricted-textarea
