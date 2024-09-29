@@ -2,6 +2,9 @@
 
 This project demonstrates how to create a restricted textarea with live character count and a maximum character limit using HTML, CSS, and JavaScript. It tracks and displays the number of characters typed by the user, provides real-time feedback, and visually indicates when the character limit is reached.
 
+Project URL
+https://github.com/AdelAmoura/CAT.git
+
 ## Features
 - A textarea that allows users to type a maximum of 100 characters.
 - Live character count updates as the user types.
