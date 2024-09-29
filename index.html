@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Textarea Character Limit</title>
+  <style>
+    .textarea-container {
+      margin: 20px;
+    }
+    .char-count {
+      margin-top: 10px;
+      font-size: 14px;
+    }
+    .limit-reached {
+      border: 2px solid red;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="textarea-container">
+    <textarea id="textArea" rows="10" cols="30" placeholder="Type your text here..." maxlength="100"></textarea>
+    <div class="char-count">
+      Characters typed: <span id="charCount">0</span> / 100
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
